@@ -29,7 +29,7 @@ Additional Information :
   1. In login_info_otp.py, I have used local environment variable which contains the information regarding my email and password, I used it so that I don't
      have to write my credentials. I will attach a link which contains information about creating environment variables.
   2. Environment Variables (Windows):  https://www.youtube.com/watch?v=IolxqkL7cD8
-     Environment Variables (Mac and linux):  https://www.youtube.com/watch?v=5iWhQWVXosU&t=78s
-  3. Sending an email with python: https://www.youtube.com/watch?v=JRCJ6RtE3xU&t=1522s
-  4. Automating excel with python : https://www.youtube.com/watch?v=7YS6YDQKFh0&t=549s
+  3.  Environment Variables (Mac and linux):  https://www.youtube.com/watch?v=5iWhQWVXosU&t=78s
+  4. Sending an email with python: https://www.youtube.com/watch?v=JRCJ6RtE3xU&t=1522s
+  5. Automating excel with python : https://www.youtube.com/watch?v=7YS6YDQKFh0&t=549s
      
